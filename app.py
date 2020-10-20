@@ -30,6 +30,10 @@ while True:
       feelings_list.append("lazy")
       encouragement_list.append("You can relax for awhile but remember to plan your time wisely.")
       counter += 1
+    if each_word == "relieved":
+      feelings_list.append("relieved")
+      encouragement_list.append("that is great! Relax every now and then and enjoy life")
+      counter += 1
 
   if counter == 0:
     

@@ -1,4 +1,4 @@
-print("Title of program: Post-exam bot")
+print("Title of program: Post-exam/encouragement bot")
 print()
 while True:
   description = input("How do you feel after during the post exam activity?")
